@@ -1,1 +1,1 @@
-TOKEN = '' # bot token from @BotFather
+# TOKEN = '' # bot token from @BotFather
